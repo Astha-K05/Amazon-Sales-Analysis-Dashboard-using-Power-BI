@@ -12,7 +12,7 @@ This project involves building an interactive dashboard in Power BI to analyze A
 - Interactive filters and slicers  
 
 ## 📷 Dashboard Preview
-(Add your screenshot here)
+![Dashboard](Screenshot%202026-04-10%20154951.png)
 
 ## 📁 Files
 - Amazon dashboard.mp4  
